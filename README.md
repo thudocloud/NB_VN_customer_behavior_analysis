@@ -16,8 +16,8 @@ for New Balance Vietnam across Ha Noi, Ho Chi Minh, and Da Nang.
 - Currency: VND 
 
 ## Key Analysis
-- Customer segmentation (New, Returning, Loyal)
-- Revenue by product category and age group
-- Purchase channel and payment method trends
-- Age group spending patterns
-- Seasonal buying behavior
+- Customer segmentation by subscription status (Subscriber vs Non-subscriber)
+- Revenue breakdown by city (Ho Chi Minh, Ha Noi, Da Nang)
+- Revenue by product category (Running Shoes, Lifestyle Sneakers, Training Shoes, Apparel, Accessories)
+- Revenue by age group (Teen, Young Adult, Adult)
+- Purchase channel performance (In-Store, Online App, Shopee, Online Website, Lazada)
